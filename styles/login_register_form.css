@@ -1,4 +1,4 @@
-#login_form{
+#login_form, #registration_form{
     border: 2px solid #ccc;
     float: left;
     width: 206px;
@@ -6,7 +6,7 @@
     padding: 5px;
 }
 
-#login_form input[type=submit]{
+#login_form input[type=submit], #registration_form input[type=submit]{
     border: none;
     background-color: darkgreen;
     font-weight: bold;
@@ -14,22 +14,22 @@
     width: 100%;
 }
 
-#login_form input{
+#login_form input, #registration_form input{
     width: 97%;
     display: inline-block;
 }
 
-#login_form h1{
+#login_form h1, #registration_form h1{
     text-align: center;
 }
 
-#login_intro{
+#login_intro, #registration_form{
     float: left;
     width: 461px;
     padding-top: 7px;
     padding-left: 15px;
 }
 
-#login_intro p{
+#login_intro p, #registration_form p{
     font-size: 12px;
 }

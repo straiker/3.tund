@@ -1,8 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: rait
- * Date: 16/09/15
- * Time: 10:56
- */
+require_once '../header.php';
+require_once '../footer.php'
 ?>
