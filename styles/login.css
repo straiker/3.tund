@@ -22,3 +22,14 @@
 #login_form h1{
     text-align: center;
 }
+
+#login_intro{
+    float: left;
+    width: 461px;
+    padding-top: 7px;
+    padding-left: 15px;
+}
+
+#login_intro p{
+    font-size: 12px;
+}
