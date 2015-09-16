@@ -1,8 +1,6 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: rait
- * Date: 16/09/15
- * Time: 10:57
- */
-?>
+<div id="footer">
+    <p><em>created by rait avastu | copyright@2015</em></p>
+</div>
+</div>
+</body>
+</html>
